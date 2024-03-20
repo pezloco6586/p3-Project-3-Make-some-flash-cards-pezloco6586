@@ -1,0 +1,17 @@
+flashcards1 = {
+  "sin(0)":"0",
+  "cos(0)":"1",
+  "tan(0)":"0",
+  "sin(pi/6)":"1/2",
+  "cos(pi/6)":"root3/2",
+  "tan(pi/6)":"1/root3",
+  "sin(pi/4)":"root2/2",
+  "cos(pi/4)":"root2/2",
+  "tan(pi/4)":"1",
+  "sin(pi/3)":"root3/2",
+  "cos(pi/3)":"1/2",
+  "tan(pi/3)":"root3",
+  "sin(pi/2)":"1",
+  "cos(pi/2)":"0",
+  "tan(pi/2)":"undefined"
+}
